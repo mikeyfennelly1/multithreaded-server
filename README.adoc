@@ -1,0 +1,3 @@
+= Pooled stream server
+
+This is a server, written in C that uses thread pooling, and runs on a stream socket. It's just practice.
